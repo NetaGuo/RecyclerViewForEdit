@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_67790fdd2f1addd3df2647ee96c1fb38178ce9c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_82475f9a6977b739c51b91c400e3ef778d5c1c3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_d328feb43fff08d3b1d593817127d579a2ed6d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.1.0_a962f3fe3f697e20569b4b492f77aa3fc56495c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guoying\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_a2656062f3f633587cc589604528e43c04877793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fb426a2c413bebbd6582a0b16e6dcedb015d84c5">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\instant-run_199db4957980c73f23fa9dda39865770d5a47cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_314bd0d0ca830ce8d9b405c6fe41f05e1016f6c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_43a8b341738b6c3b8c08c4a5333fbd70c1027571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_a428a1423065e10bf28e14f55acf6f72180dfbe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\guoying\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_f5a22dd00234daad1f455be4598051947e5625ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4d710a757dce59bab43770119c92889dcf8d21f5">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_054b901ffe4a592ea056354ad10389685568c43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\EditRecyclerView\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\EditRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_4d919cedeef445fdda43aff3add5df1dc8022bb5.jar" />
+    </item>
+
+</items>

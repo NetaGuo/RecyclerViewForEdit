@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp">
+
+    <View
+        style="@style/BorderLine" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bbs_theme"
+        android:hint="输入主题"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:textCursorDrawable="@drawable/bbs_cursor_drawable"
+        android:textColor="@color/gray_33"
+        android:background="@color/white"
+        android:textSize="14sp"
+        android:padding="10dp"/>
+    <View
+        android:layout_marginLeft="10dp"
+        style="@style/BorderLine" />
+
+</LinearLayout>
