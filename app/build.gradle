@@ -1,4 +1,7 @@
 apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+//引入布局之后直接使用控件的id进行相关操作
+apply plugin: 'kotlin-android-extensions'
 
 android {
     compileSdkVersion 23
@@ -17,6 +20,15 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    sourceSets{
+
+        main{
+            java.srcDirs=['src/main/java','src/main/aidl']
+        }
+        main.java.srcDirs+=['src/main/kotlin']
+    }
+
 }
 
 dependencies {
@@ -24,10 +36,12 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+    'org.jetbrains:annotations-java5:15.0'
     compile 'com.android.support:appcompat-v7:23.2.0'
     compile 'com.android.support:design:23.4.0'
     compile 'io.reactivex:rxandroid:1.1.0'
     compile 'io.reactivex:rxjava:1.1.6'
-    'org.jetbrains:annotations-java5:15.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     testCompile 'junit:junit:4.12'
 }
